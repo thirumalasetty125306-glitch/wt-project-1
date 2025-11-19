@@ -1,1 +1,1 @@
-# wt-project-1
+# wt-practical-12
